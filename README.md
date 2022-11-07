@@ -3,6 +3,7 @@ The input file for the python application has the following structure <child nam
 Example file:
 Adam John
 Marc Steven
+  
 Steven Adam
 Robert Steven
 Frank John
